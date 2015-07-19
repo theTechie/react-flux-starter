@@ -1,7 +1,7 @@
 {
-  "name": "react-starter",
+  "name": "react-flux-starter",
   "version": "0.0.1",
-  "description": "Starter project for React using ES6 with complete build infrastructure with live reload for development",
+  "description": "Starter project for React with Flux using ES6 with complete build infrastructure with live reload for development",
   "repository": {
     "type": "git",
     "url": "https://github.com/theTechie/react-flux-starter.git"    

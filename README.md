@@ -1,7 +1,7 @@
 # [React Starter](http://theTechie.github.io/react-starter)
 
 ## Overview
-Starter project for React using ES6 with complete build infrastructure with live reload for development
+React + Flux starter application with ES6 with complete build infrastructure using Bebelify, Browserify, Watchify, BrowserSync and SourceMaps
 ...
 
 ## Installation

@@ -4,7 +4,7 @@
   "description": "Starter project for React using ES6 with complete build infrastructure with live reload for development",
   "repository": {
     "type": "git",
-    "url": "https://www.github.com/thetechie/react-starter.git"
+    "url": "https://github.com/theTechie/react-flux-starter.git"    
   },
   "scripts": {
     "start": "gulp"

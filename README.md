@@ -1,4 +1,4 @@
-# [React Starter](http://theTechie.github.io/react-starter)
+# [React + Flux Starter](http://theTechie.github.io/react-flux-starter)
 
 ## Overview
 React + Flux starter application with ES6 with complete build infrastructure using Bebelify, Browserify, Watchify, BrowserSync and SourceMaps
@@ -23,5 +23,5 @@ Browsers do not allow us to use the require method from Node.js. With browserify
 
 ##[browserSync](http://www.browsersync.io/)
 When developing and testing the website, browserSync is a powerful tool that will rebuild and refresh the webpage so you can see the changes you make as you are working. 
-##[gulp_starter](https://github.com/greypants/gulp-starter)
+##[gulp-starter](https://github.com/greypants/gulp-starter)
 A useful repository that explains how many of gulp's features work and contains an example project to get familiar with it. We use this example to construct our own project.
